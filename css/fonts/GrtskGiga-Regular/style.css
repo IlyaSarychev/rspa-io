@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: local('Grtsk Giga Regular'), local('Grtsk-Giga-Regular'),
+        url('GrtskGiga-Regular.woff2') format('woff2'),
+        url('GrtskGiga-Regular.woff') format('woff'),
+        url('GrtskGiga-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
